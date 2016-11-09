@@ -1,0 +1,7 @@
+html, body {background-color:#070A0F;color:#FFFFFF;font-family:tahoma;text-align:center;}
+a {color:#FFFFFF;text-decoration:none;}
+.link {color:#486C8C;font-size:25px;}
+.text {color:#686B6E;font-size:11px;}
+#content {margin:200px auto 0px;text-align:left;width:320px;}
+#content p {font-weight:normal;}
+#content span {font-size:18px;}
